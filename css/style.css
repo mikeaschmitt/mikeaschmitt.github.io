@@ -6,7 +6,6 @@ body {
 }
 
 .nav li {
-  text-align:center;
   display:inline;
   margin-left:10px;
 }
@@ -16,25 +15,20 @@ body {
   border-style:solid;
   border-width:1px;
   border-color:black;
-  margin-top: 10px;
+  margin-top: 1px;
   margin-bottom: 10px;
   margin-left:30px;
   margin-right:30px;
   padding: 20px;
 }
-.container_2 {
-  background-color: white;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  margin-left:30px;
-  margin-right:30px;
-  padding: 20px;
+.picture_box {
+  float:right;
 }
-.container_3 {
-  background-color: white;
-  margin-top: 10px;
-  margin-bottom: 10px;
+.head {
+  background-color: White;
+  border-style:solid;
+  border-width:1px;
+  border-color:black;
   margin-left:30px;
   margin-right:30px;
-  padding: 20px;
 }
