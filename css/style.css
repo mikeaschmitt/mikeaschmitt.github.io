@@ -21,6 +21,9 @@ body {
 a:visited {
   color: white;
 }
+a:link {
+  color: white;
+}
 .head {
   margin:auto;
   border-style:solid;
